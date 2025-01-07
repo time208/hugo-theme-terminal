@@ -66,6 +66,7 @@
 - https://blog.networkchuck.com **NetworkChuck** (YouTuber & Hacker)
 - https://blog.arkb.me **AbdulRKB** (Security Researcher & Web Dev)
 - https://harshv5094.netlify.app **Harsh Vyapari** (Developer & Linux Enthusiast)
+- https://timewaster43.github.io **Benjamin Lee** (Student Developer and Photographer)
 <!--
  TEMPLATE:
 
